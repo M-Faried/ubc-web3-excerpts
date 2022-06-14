@@ -1,0 +1,1 @@
+A couple of web3 excerpts which is used with both Ganache and infura link to connect to one of the test nets.
